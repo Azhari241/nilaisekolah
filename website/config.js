@@ -9,6 +9,6 @@
  * Jika kosong, aplikasi berjalan dalam MODE DEMO (data contoh, ditandai jelas).
  */
 window.APP_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: ""
+  SUPABASE_URL: "https://aoydlkstsbxxxohftyki.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_kg6vRpcaWofFQxIGxN2AYA_vi5QacQW"
 };
